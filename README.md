@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<<
-!--
-**Paulo Roberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hi there eu sou Paulo Roberto 👋
+ 
 - 🔭 I’m currently working on tecnologia da informação e 
  comunicação desnvolvedor de sistemas fullstack ...
 - 🌱 I’m currently learning html,css,javascript ...
