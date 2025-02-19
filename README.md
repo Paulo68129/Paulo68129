@@ -1,4 +1,4 @@
-## Hi there eu sou Paulo Roberto 👋
+## Olá, eu sou Paulo Roberto 👋
  
 - 🔭 I’m currently working on tecnologia da informação e 
  comunicação desenvolvedor fullstack ...
