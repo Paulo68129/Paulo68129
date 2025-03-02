@@ -71,8 +71,8 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas co
 ---
 
 ## 🎓 Formação e Certificações
-- *Bacharelado em Ciência da Computação* - [Nome da Universidade]  
-- *AWS Certified Developer* - Associate  
+- ** - [Nome da Universidade]  
+- * Certified Developer* - Associate  
 - *Scrum Foundation Professional Certificate* (SFPC)
 
 ---
