@@ -33,7 +33,12 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas co
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
+![Snake Game](https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake.svg)
+
+## 🐍 Snake no Calendário
+O jogo da cobra no meu calendário de contribuições foi criado através de commits estratégicos. 
+**Dica:** Passe o mouse/clique nos quadrados para ver os projetos!
+
 
 ## ⭐ Projetos Destacados
 
