@@ -72,9 +72,9 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas co
 ---
 
 ## 🎓 Formação e Certificações
-- ** - [Nome da Universidade]  
-- * Certified Developer* - Associate  
-- *Scrum Foundation Professional Certificate* (SFPC)
+- ** - [Aluno em fprmação Serratec/Senai]  
+- * Certified Developer System Full Stack *  
+  
 
 ---
 
