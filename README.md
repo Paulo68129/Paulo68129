@@ -1,4 +1,4 @@
- # 👋 Olá, sou Paulo Roberto!
+# 👋 Olá, sou Paulo Roberto!
 
 ### Desenvolvedor Full Stack | Transformando ideias em soluções digitais
 
@@ -7,7 +7,7 @@
 ## 🚀 Sobre Mim
 Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas completas, desde o front-end até a infraestrutura. Com experiência em múltiplas stacks tecnológicas, meu objetivo é entregar sistemas escaláveis, eficientes e com código limpo.
 
-*O que me motiva:*
+**O que me motiva:**
 - 💡 Resolver problemas complexos com soluções criativas
 - 🌱 Aprendizado contínuo de novas tecnologias
 - 🚀 Desenvolver produtos que impactem positivamente a vida das pessoas
@@ -35,7 +35,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas co
 
 ---
 
-
 ## ⭐ Projetos Destacados
 
 ### [Nome do Projeto 1](link)
@@ -57,13 +56,13 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas co
 
 ## 📈 Estatísticas do GitHub
 
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/seuusername)
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hankspqd6812925@gmail.com)
@@ -72,12 +71,11 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas co
 ---
 
 ## 🎓 Formação e Certificações
-- ** - [Aluno em formação Serratec/Senai]  
-- *  Developer Full Stack *  
-  
+- **Aluno em formação Serratec/Senai**  
+- **Developer Full Stack**  
 
 ---
 
-💡 *Curiosidade:* Quando não estou codando, você me encontra [hobby/interesse pessoal] ou estudando sobre [área de interesse relacionada à tecnologia].
+💡 *Curiosidade:* Quando não estou codando, você me encontra explorando [hobby/interesse pessoal] ou estudando sobre [área de interesse relacionada à tecnologia].
 
   
