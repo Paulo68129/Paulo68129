@@ -73,7 +73,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas co
 
 ## 🎓 Formação e Certificações
 - ** - [Aluno em formação Serratec/Senai]  
-- * Certified Developer System Full Stack *  
+- *  Developer System Full Stack *  
   
 
 ---
