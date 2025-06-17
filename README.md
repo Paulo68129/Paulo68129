@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas completas, desde o front-end até a infraestrutura. Com experiência em múltiplas stacks tecnológicas, meu objetivo é entregar sistemas escaláveis, eficientes e com código limpo.
+Sou aluno de desenvolvimento Full Stack em formação apaixonado por criar soluções tecnológicas completas, desde o front-end até a infraestrutura. Com experiência em múltiplas stacks tecnológicas, meu objetivo é entregar sistemas escaláveis, eficientes e com código limpo.
 
 *O que me motiva:*
 - 💡 Resolver problemas complexos com soluções criativas
