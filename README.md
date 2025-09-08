@@ -72,7 +72,7 @@ Sou aluno de desenvolvimento Full Stack em formação apaixonado por criar solu�
 ---
 
 ## 🎓 Formação e Certificações
-- ** - [Aluno em formação Serratec/Senai]  
+- **  Serratec/Senai]  
 - *  Developer Full Stack *  
   
 
